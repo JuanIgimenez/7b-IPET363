@@ -1,0 +1,15 @@
+.jider {display: flex;}
+.jider h1{border: solid;
+margin-top: 0px;
+width: 33%;
+height: 20%;
+text-align: center;}
+
+.jider p{border: solid;
+    margin-top: 0px;
+    width: 33%;
+    height: 20%;
+    text-align: center;}
+
+nav {text-align: center;}
+
